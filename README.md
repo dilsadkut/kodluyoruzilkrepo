@@ -2,7 +2,6 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
-
 ## Installation
 
 ```bash
@@ -13,8 +12,8 @@ git clone https://github.com/dilsadkut/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-MacOS için:
-```MacOS
+Linux için:
+```linux
 cd kodluyoruzilkrepo
 code .
 ```
